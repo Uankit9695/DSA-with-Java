@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80fa38f7-5914-4b12-aee7-3ceb9068d31b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/KU01_InOt/SI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KU01_InOt/leapyear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KU01_InOt/rupeeIntoUSD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/CAlculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/countNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/fabnocci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/largestNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/reverseofNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/typecheck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,13 +44,13 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/sudoku (1)/DSAjava/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.rupeeIntoUSD">
-    <configuration name="SI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KU01_InOt.SI" />
+  <component name="RunManager" selected="Application.CAlculator">
+    <configuration name="CAlculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.CAlculator" />
       <module name="DSAjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="KU01_InOt.*" />
+          <option name="PATTERN" value="loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leapyear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KU01_InOt.leapyear" />
+    <configuration name="countNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.countNum" />
       <module name="DSAjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="KU01_InOt.*" />
+          <option name="PATTERN" value="loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +71,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rupeeIntoUSD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KU01_InOt.rupeeIntoUSD" />
+    <configuration name="fabnocci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.fabnocci" />
       <module name="DSAjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="KU01_InOt.*" />
+          <option name="PATTERN" value="loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="largestNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.largestNo" />
+      <module name="DSAjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverseofNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loops.reverseofNo" />
+      <module name="DSAjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,9 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.rupeeIntoUSD" />
-        <item itemvalue="Application.SI" />
-        <item itemvalue="Application.leapyear" />
+        <item itemvalue="Application.CAlculator" />
+        <item itemvalue="Application.reverseofNo" />
+        <item itemvalue="Application.countNum" />
+        <item itemvalue="Application.fabnocci" />
+        <item itemvalue="Application.largestNo" />
       </list>
     </recent_temporary>
   </component>
