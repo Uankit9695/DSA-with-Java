@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80fa38f7-5914-4b12-aee7-3ceb9068d31b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/inputnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Switch/fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/function/Evenorodd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/function/Grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/function/IsArmstrong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/function/Stringprogream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/function/VarArgs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/function/isPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/function/largnminNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/function/sawping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/function/sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/arraylistExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/notFixRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/passingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/sumOfarray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,35 +45,9 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/sudoku (1)/DSAjava/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.inputnum">
-    <configuration name="Grade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="function.Grade" />
-      <module name="DSAjava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="function.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IsArmstrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="function.IsArmstrong" />
-      <module name="DSAjava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="function.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="inputnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.inputnum" />
+  <component name="RunManager" selected="Application.sumOfarray">
+    <configuration name="arraylistExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.arraylistExample" />
       <module name="DSAjava" />
       <extension name="coverage">
         <pattern>
@@ -92,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="function.isPrime" />
+    <configuration name="matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.matrix" />
       <module name="DSAjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="function.*" />
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +72,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rupeeIntoUSD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KU01_InOt.rupeeIntoUSD" />
+    <configuration name="notFixRow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.notFixRow" />
       <module name="DSAjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="KU01_InOt.*" />
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="passingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.passingArray" />
+      <module name="DSAjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sumOfarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.sumOfarray" />
+      <module name="DSAjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.inputnum" />
-        <item itemvalue="Application.IsArmstrong" />
-        <item itemvalue="Application.rupeeIntoUSD" />
-        <item itemvalue="Application.Grade" />
-        <item itemvalue="Application.isPrime" />
+        <item itemvalue="Application.sumOfarray" />
+        <item itemvalue="Application.arraylistExample" />
+        <item itemvalue="Application.notFixRow" />
+        <item itemvalue="Application.matrix" />
+        <item itemvalue="Application.passingArray" />
       </list>
     </recent_temporary>
   </component>
