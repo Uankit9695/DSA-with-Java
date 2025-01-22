@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80fa38f7-5914-4b12-aee7-3ceb9068d31b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array/MultiDimension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/MaxWelth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/MinValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/maxinArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/sawapofArry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sarching/BinarySarch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sarching/EvenNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sarching/OrderAgnostic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sarching/SarchinString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sarching/Sarching2Darray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sarching/linerSarch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sarching/maxIn2Darray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,9 +51,35 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/sudoku (1)/DSAjava/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MultiDimension">
-    <configuration name="MultiDimension" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.MultiDimension" />
+  <component name="RunManager" selected="Application.OrderAgnostic">
+    <configuration name="BinarySarch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sarching.BinarySarch" />
+      <module name="DSAjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sarching.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvenNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sarching.EvenNumber" />
+      <module name="DSAjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sarching.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxWelth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.MaxWelth" />
       <module name="DSAjava" />
       <extension name="coverage">
         <pattern>
@@ -55,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arraylistExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.arraylistExample" />
+    <configuration name="OrderAgnostic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sarching.OrderAgnostic" />
       <module name="DSAjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="Sarching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,38 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.matrix" />
+    <configuration name="maxIn2Darray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sarching.maxIn2Darray" />
       <module name="DSAjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="notFixRow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.notFixRow" />
-      <module name="DSAjava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="sumOfarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.sumOfarray" />
-      <module name="DSAjava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="Sarching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MultiDimension" />
-        <item itemvalue="Application.sumOfarray" />
-        <item itemvalue="Application.arraylistExample" />
-        <item itemvalue="Application.notFixRow" />
-        <item itemvalue="Application.matrix" />
+        <item itemvalue="Application.OrderAgnostic" />
+        <item itemvalue="Application.BinarySarch" />
+        <item itemvalue="Application.MaxWelth" />
+        <item itemvalue="Application.EvenNumber" />
+        <item itemvalue="Application.maxIn2Darray" />
       </list>
     </recent_temporary>
   </component>
