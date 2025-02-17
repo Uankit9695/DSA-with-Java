@@ -12,6 +12,7 @@ public class reverseofNo {
             int temp= n%10;
             rev=(rev*10)+temp;
             n=n/10;
+            System.out.println(n);
         }
         System.out.println(rev);
     }

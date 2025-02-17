@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80fa38f7-5914-4b12-aee7-3ceb9068d31b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array/ArraySumWithCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sarching/InfiniteArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sarching/MAuntanArry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sarching/NextgratestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sarching/SearchRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sarching/SiblimhBinry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array2D/RowColoumMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array2D/SortMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sarching/SerachingInMautainArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shorting/SlectionShort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shorting/bubleShort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loops/reverseofNo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/reverseofNo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,22 +46,9 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/sudoku (1)/DSAjava/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArraySumWithCondition">
-    <configuration name="ArraySumWithCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.ArraySumWithCondition" />
-      <module name="DSAjava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InfiniteArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sarching.InfiniteArray" />
+  <component name="RunManager" selected="Application.SlectionShort">
+    <configuration name="OrderAgnostic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sarching.OrderAgnostic" />
       <module name="DSAjava" />
       <extension name="coverage">
         <pattern>
@@ -73,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MAuntanArry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sarching.MAuntanArry" />
+    <configuration name="RowColoumMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array2D.RowColoumMatrix" />
       <module name="DSAjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sarching.*" />
+          <option name="PATTERN" value="Array2D.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextgratestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sarching.NextgratestNumber" />
+    <configuration name="SlectionShort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shorting.SlectionShort" />
       <module name="DSAjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sarching.*" />
+          <option name="PATTERN" value="Shorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +86,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sarching.SearchRange" />
+    <configuration name="SortMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array2D.SortMatrix" />
       <module name="DSAjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sarching.*" />
+          <option name="PATTERN" value="Array2D.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bubleShort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shorting.bubleShort" />
+      <module name="DSAjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Shorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArraySumWithCondition" />
-        <item itemvalue="Application.MAuntanArry" />
-        <item itemvalue="Application.InfiniteArray" />
-        <item itemvalue="Application.SearchRange" />
-        <item itemvalue="Application.NextgratestNumber" />
+        <item itemvalue="Application.SlectionShort" />
+        <item itemvalue="Application.bubleShort" />
+        <item itemvalue="Application.SortMatrix" />
+        <item itemvalue="Application.RowColoumMatrix" />
+        <item itemvalue="Application.OrderAgnostic" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +141,21 @@
           <line>13</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Array2D/SortMatrix.java</url>
+          <line>20</line>
+          <properties class="Array2D.SortMatrix" method="search">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DSAjava$RowColoumMatrix.ic" NAME="RowColoumMatrix Coverage Results" MODIFIED="1739645419423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Array2D.*</FILTER>
+    </SUITE>
   </component>
 </project>
