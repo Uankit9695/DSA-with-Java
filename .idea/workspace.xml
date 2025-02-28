@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80fa38f7-5914-4b12-aee7-3ceb9068d31b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array2D/RowColoumMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array2D/SortMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sarching/SerachingInMautainArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shorting/SlectionShort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Shorting/bubleShort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recurstion/recursionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shorting/inseration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/Palindromnumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loops/roman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/apositTOrighrangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/patternnumber5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/righttrangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loops/reverseofNo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops/reverseofNo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +49,13 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/sudoku (1)/DSAjava/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SlectionShort">
-    <configuration name="OrderAgnostic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sarching.OrderAgnostic" />
+  <component name="RunManager" selected="Application.recursionExample">
+    <configuration name="apositTOrighrangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.apositTOrighrangle" />
       <module name="DSAjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sarching.*" />
+          <option name="PATTERN" value="patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RowColoumMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array2D.RowColoumMatrix" />
+    <configuration name="patternnumber5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.patternnumber5" />
       <module name="DSAjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array2D.*" />
+          <option name="PATTERN" value="patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SlectionShort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Shorting.SlectionShort" />
+    <configuration name="recursionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recurstion.recursionExample" />
       <module name="DSAjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Shorting.*" />
+          <option name="PATTERN" value="Recurstion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array2D.SortMatrix" />
+    <configuration name="righttrangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.righttrangle" />
       <module name="DSAjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array2D.*" />
+          <option name="PATTERN" value="patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bubleShort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Shorting.bubleShort" />
+    <configuration name="square" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.square" />
       <module name="DSAjava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Shorting.*" />
+          <option name="PATTERN" value="patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SlectionShort" />
-        <item itemvalue="Application.bubleShort" />
-        <item itemvalue="Application.SortMatrix" />
-        <item itemvalue="Application.RowColoumMatrix" />
-        <item itemvalue="Application.OrderAgnostic" />
+        <item itemvalue="Application.recursionExample" />
+        <item itemvalue="Application.patternnumber5" />
+        <item itemvalue="Application.righttrangle" />
+        <item itemvalue="Application.apositTOrighrangle" />
+        <item itemvalue="Application.square" />
       </list>
     </recent_temporary>
   </component>
